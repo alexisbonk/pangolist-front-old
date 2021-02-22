@@ -1,0 +1,35 @@
+.header-md::after {
+    content: none !important;
+}
+
+@font-face {
+    font-family: "Montserrat";
+    src:         url("./assets/fonts/Montserrat-Regular.ttf");
+}
+
+ion-menu {
+    /*--width: 100px;*/
+    --max-width: 90px
+}
+
+/*ion-menu.md ion-list {
+  border-bottom: 1px solid var(--ion-color-step-150, #d7d8da);
+}*/
+
+ion-item-divider {
+    min-height: 1px;
+}
+
+ion-header {
+    font-family: Montserrat !important;
+}
+
+ion-content {
+    font-family: Montserrat !important;
+}
+
+ion-item {
+    --background:         none;
+    opacity:              1;
+    --inner-border-width: 0px;
+}

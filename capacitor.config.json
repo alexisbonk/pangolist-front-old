@@ -1,0 +1,14 @@
+{
+  "appId": "epitech.pangolist",
+  "appName": "Pangolist",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "linuxAndroidStudioPath": "/usr/bin/android-studio",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  },
+  "cordova": {}
+}

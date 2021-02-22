@@ -1,0 +1,22 @@
+.create-avatar {
+  width: 35%;
+  height: 80%;
+}
+
+.rounded {
+  --border-radius: 50% !important;
+}
+
+.img {
+  border-radius: 10px !important;
+  overflow: hidden;
+}
+
+.my-custom-modal {
+  width: 50%;
+  height: 30%;
+  margin-top: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  --background: #ccc6c6;
+}
